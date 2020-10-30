@@ -1,4 +1,4 @@
-# Course3_Project
+# Course3 Project
 Coursera Data Science Foundations in R
 By: Chris Kye
 
